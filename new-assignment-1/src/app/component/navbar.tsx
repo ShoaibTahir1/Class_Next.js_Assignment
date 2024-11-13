@@ -11,7 +11,7 @@ export default function Navbar() {
                         alt="logo" 
                         className="h-20 rounded-full transition-transform duration-300 hover:scale-110" 
                     />
-                    <span className="font-serif font-semibold text-3xl text-white transition-transform duration-300 hover:scale-105">
+                    <span className="font-serif font-semibold text-4xl text-white transition-transform duration-300 hover:scale-105">
                         Welcome To My Website
                     </span>
                 </div>
